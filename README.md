@@ -1,5 +1,6 @@
 # Parasite
-PARASITE film Datasets
+PARASITE film Datasets.
+
 In **scenes.csv** you can find the whole film described. Each row represents a character in a location/sublocation during a time range. Columns:
 
 * **scene**: I divided the film into several scenes or moments. 
